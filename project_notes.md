@@ -9,3 +9,7 @@ What question will our team investigate?
 
 ## Research question
 Something.
+
+## Methods
+1. Go to GitHub repo
+2. Download `data/` folder
